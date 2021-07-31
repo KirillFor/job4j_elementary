@@ -6,7 +6,7 @@ public class Calculator {
         System.out.println(size);
         size = 100;
         System.out.println(size);
-        size = size -5;
+        size = size - 5;
         System.out.println(size);
 
     }
